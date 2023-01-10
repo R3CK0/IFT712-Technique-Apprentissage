@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 #####
-# VosNoms (Matricule) .~= À MODIFIER =~.
+# Nicholas Massad (MASN2601) .~= À MODIFIER =~.
 ###
 
 # NE PAS MODIFIER OU AJOUTER DE NOUVEAU IMPORTS

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 #####
-# VotreNom (VotreMatricule) .~= À MODIFIER =~.
+# Nicholas Massad (Masn2601) .~= À MODIFIER =~.
 ###
 
 import numpy as np
